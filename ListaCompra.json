@@ -1,0 +1,228 @@
+{
+    "supermercados": [
+        {
+            "nombre": "Carrefour",
+            "direccion": "Calle Principal 123, Madrid",
+            "geolocalizacion": {
+                "latitud": 40.4167,
+                "longitud": -3.70325
+            },
+            "productos": [
+                {
+                    "nombre": "Leche",
+                    "oferta": true,
+                    "periodoVigencia": "2023-06-01 hasta 2023-06-15",
+                    "adquirido": false,
+                    "detalles": {
+                        "unidades": 1,
+                        "unidadMedida": "litro",
+                        "precio": 0.99,
+                        "seccion": "Lácteos"
+                    }
+                },
+                {
+                    "nombre": "Pan",
+                    "oferta": false,
+                    "adquirido": true,
+                    "detalles": {
+                        "unidades": 2,
+                        "unidadMedida": "unidad",
+                        "precio": 0.5,
+                        "seccion": "Panadería"
+                    }
+                },
+                {
+                    "nombre": "Arroz",
+                    "oferta": true,
+                    "periodoVigencia": "2023-06-01 hasta 2023-06-30",
+                    "adquirido": false,
+                    "detalles": {
+                        "unidades": 1,
+                        "unidadMedida": "kg",
+                        "precio": 1.5,
+                        "seccion": "Alimentación"
+                    }
+                },
+                {
+                    "nombre": "Papel Higiénico",
+                    "oferta": false,
+                    "adquirido": true,
+                    "detalles": {
+                        "unidades": 4,
+                        "unidadMedida": "rollo",
+                        "precio": 0.99,
+                        "seccion": "Droguería"
+                    }
+                }
+            ]
+        },
+        {
+            "nombre": "Mercadona",
+            "direccion": "Avenida Central 456, Barcelona",
+            "geolocalizacion": {
+                "latitud": 41.3851,
+                "longitud": 2.1734
+            },
+            "productos": [
+                {
+                    "nombre": "Agua Mineral",
+                    "oferta": true,
+                    "periodoVigencia": "2023-06-01 hasta 2023-06-30",
+                    "adquirido": false,
+                    "detalles": {
+                        "unidades": 6,
+                        "unidadMedida": "botella",
+                        "precio": 2.99,
+                        "seccion": "Bebidas"
+                    }
+                },
+                {
+                    "nombre": "Tomates",
+                    "oferta": false,
+                    "adquirido": false,
+                    "detalles": {
+                        "unidades": 1,
+                        "unidadMedida": "kg",
+                        "precio": 1.99,
+                        "seccion": "Frutas y Verduras"
+                    }
+                },
+                {
+                    "nombre": "Pasta",
+                    "oferta": true,
+                    "periodoVigencia": "2023-06-01 hasta 2023-06-15",
+                    "adquirido": false,
+                    "detalles": {
+                        "unidades": 2,
+                        "unidadMedida": "paquete",
+                        "precio": 1.2,
+                        "seccion": "Alimentación"
+                    }
+                },
+                {
+                    "nombre": "Gel de Ducha",
+                    "oferta": false,
+                    "adquirido": true,
+                    "detalles": {
+                        "unidades": 1,
+                        "unidadMedida": "unidad",
+                        "precio": 2.5,
+                        "seccion": "Cuidado Personal"
+                    }
+                }
+            ]
+        },
+        {
+            "nombre": "Lidl",
+            "direccion": "Calle Mayor 789, Valencia",
+            "geolocalizacion": {
+                "latitud": 39.4699,
+                "longitud": -0.3774
+            },
+            "productos": [
+                {
+                    "nombre": "Aceite de Oliva",
+                    "oferta": true,
+                    "periodoVigencia": "2023-06-01 hasta 2023-06-15",
+                    "adquirido": false,
+                    "detalles": {
+                        "unidades": 1,
+                        "unidadMedida": "litro",
+                        "precio": 3.99,
+                        "seccion": "Alimentación"
+                    }
+                },
+                {
+                    "nombre": "Patatas",
+                    "oferta": false,
+                    "adquirido": false,
+                    "detalles": {
+                        "unidades": 2,
+                        "unidadMedida": "kg",
+                        "precio": 0.99,
+                        "seccion": "Frutas y Verduras"
+                    }
+                },
+                {
+                    "nombre": "Chocolate",
+                    "oferta": true,
+                    "periodoVigencia": "2023-06-01 hasta 2023-06-30",
+                    "adquirido": false,
+                    "detalles": {
+                        "unidades": 3,
+                        "unidadMedida": "tableta",
+                        "precio": 1.5,
+                        "seccion": "Dulces"
+                    }
+                },
+                {
+                    "nombre": "Detergente",
+                    "oferta": false,
+                    "adquirido": true,
+                    "detalles": {
+                        "unidades": 1,
+                        "unidadMedida": "unidad",
+                        "precio": 4.5,
+                        "seccion": "Droguería"
+                    }
+                }
+            ]
+        },
+        {
+            "nombre": "Aldi",
+            "direccion": "Carrera Principal 987, Sevilla",
+            "geolocalizacion": {
+                "latitud": 37.3891,
+                "longitud": -5.9845
+            },
+            "productos": [
+                {
+                    "nombre": "Yogur",
+                    "oferta": true,
+                    "periodoVigencia": "2023-06-01 hasta 2023-06-30",
+                    "adquirido": false,
+                    "detalles": {
+                        "unidades": 4,
+                        "unidadMedida": "unidad",
+                        "precio": 1.99,
+                        "seccion": "Lácteos"
+                    }
+                },
+                {
+                    "nombre": "Plátanos",
+                    "oferta": false,
+                    "adquirido": false,
+                    "detalles": {
+                        "unidades": 5,
+                        "unidadMedida": "kg",
+                        "precio": 2.49,
+                        "seccion": "Frutas y Verduras"
+                    }
+                },
+                {
+                    "nombre": "Zumo de naranja",
+                    "oferta": true,
+                    "periodoVigencia": "2023-06-01 hasta 2023-06-15",
+                    "adquirido": false,
+                    "detalles": {
+                        "unidades": 6,
+                        "unidadMedida": "botella",
+                        "precio": 3.99,
+                        "seccion": "Bebidas"
+                    }
+                },
+                {
+                    "nombre": "Limpiacristales",
+                    "oferta": false,
+                    "adquirido": true,
+                    "detalles": {
+                        "unidades": 1,
+                        "unidadMedida": "unidad",
+                        "precio": 1.99,
+                        "seccion": "Droguería"
+                    }
+                }
+            ]
+        }
+    ]
+}

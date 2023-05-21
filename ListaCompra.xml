@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <root>
+     <supermercado>
+         <nombre>Carrefour</nombre>
+         <direccion>Calle Principal 123, Madrid</direccion>
+         <geolocalizacion>
+             <latitud>40.4167</latitud>
+             <longitud>-3.70325</longitud>
+         </geolocalizacion>
+         <producto>
+             <nombre>Leche</nombre>
+             <oferta>true</oferta>
+             <periodoVigencia>2023-06-01 hasta 2023-06-15</periodoVigencia>
+             <adquirido>false</adquirido>
+             <detalles>
+                 <unidades>1</unidades>
+                 <unidadMedida>litro</unidadMedida>
+                 <precio>0.99</precio>
+                 <seccion>Lácteos</seccion>
+             </detalles>
+         </producto>
+         <producto>
+             <nombre>Pan</nombre>
+             <oferta>false</oferta>
+             <adquirido>true</adquirido>
+             <detalles>
+                 <unidades>2</unidades>
+                 <unidadMedida>unidad</unidadMedida>
+                 <precio>0.5</precio>
+                 <seccion>Panadería</seccion>
+             </detalles>
+         </producto>
+         <producto>
+             <nombre>Arroz</nombre>
+             <oferta>true</oferta>
+             <periodoVigencia>2023-06-01 hasta 2023-06-30</periodoVigencia>
+             <adquirido>false</adquirido>
+             <detalles>
+                 <unidades>1</unidades>
+                 <unidadMedida>kg</unidadMedida>
+                 <precio>1.5</precio>
+                 <seccion>Alimentación</seccion>
+             </detalles>
+         </producto>
+         <producto>
+             <nombre>Papel Higiénico</nombre>
+             <oferta>false</oferta>
+             <adquirido>true</adquirido>
+             <detalles>
+                 <unidades>4</unidades>
+                 <unidadMedida>rollo</unidadMedida>
+                 <precio>0.99</precio>
+                 <seccion>Droguería</seccion>
+             </detalles>
+         </producto>
+     </supermercado>
+     <supermercado>
+         <nombre>Mercadona</nombre>
+         <direccion>Avenida Central 456, Barcelona</direccion>
+         <geolocalizacion>
+             <latitud>41.3851</latitud>
+             <longitud>2.1734</longitud>
+         </geolocalizacion>
+         <producto>
+             <nombre>Agua Mineral</nombre>
+             <oferta>true</oferta>
+             <periodoVigencia>2023-06-01 hasta 2023-06-30</periodoVigencia>
+             <adquirido>false</adquirido>
+             <detalles>
+                 <unidades>6</unidades>
+                 <unidadMedida>botella</unidadMedida>
+                 <precio>2.99</precio>
+                 <seccion>Bebidas</seccion>
+             </detalles>
+         </producto>
+         <producto>
+             <nombre>Tomates</nombre>
+             <oferta>false</oferta>
+             <adquirido>false</adquirido>
+             <detalles>
+                 <unidades>1</unidades>
+                 <unidadMedida>kg</unidadMedida>
+                 <precio>1.99</precio>
+                 <seccion>Frutas y Verduras</seccion>
+             </detalles>
+         </producto>
+         <producto>
+             <nombre>Pasta</nombre>
+             <oferta>true</oferta>
+             <periodoVigencia>2023-06-01 hasta 2023-06-15</periodoVigencia>
+             <adquirido>false</adquirido>
+             <detalles>
+                 <unidades>2</unidades>
+                 <unidadMedida>paquete</unidadMedida>
+                 <precio>1.2</precio>
+                 <seccion>Alimentación</seccion>
+             </detalles>
+         </producto>
+         <producto>
+             <nombre>Gel de Ducha</nombre>
+             <oferta>false</oferta>
+             <adquirido>true</adquirido>
+             <detalles>
+                 <unidades>1</unidades>
+                 <unidadMedida>unidad</unidadMedida>
+                 <precio>2.5</precio>
+                 <seccion>Cuidado Personal</seccion>
+             </detalles>
+         </producto>
+     </supermercado>
+     <supermercado>
+         <nombre>Lidl</nombre>
+         <direccion>Calle Mayor 789, Valencia</direccion>
+         <geolocalizacion>
+             <latitud>39.4699</latitud>
+             <longitud>-0.3774</longitud>
+         </geolocalizacion>
+         <producto>
+             <nombre>Aceite de Oliva</nombre>
+             <oferta>true</oferta>
+             <periodoVigencia>2023-06-01 hasta 2023-06-15</periodoVigencia>
+             <adquirido>false</adquirido>
+             <detalles>
+                 <unidades>1</unidades>
+                 <unidadMedida>litro</unidadMedida>
+                 <precio>3.99</precio>
+                 <seccion>Alimentación</seccion>
+             </detalles>
+         </producto>
+         <producto>
+             <nombre>Patatas</nombre>
+             <oferta>false</oferta>
+             <adquirido>false</adquirido>
+             <detalles>
+                 <unidades>2</unidades>
+                 <unidadMedida>kg</unidadMedida>
+                 <precio>0.99</precio>
+                 <seccion>Frutas y Verduras</seccion>
+             </detalles>
+         </producto>
+         <producto>
+             <nombre>Chocolate</nombre>
+             <oferta>true</oferta>
+             <periodoVigencia>2023-06-01 hasta 2023-06-30</periodoVigencia>
+             <adquirido>false</adquirido>
+             <detalles>
+                 <unidades>3</unidades>
+                 <unidadMedida>tableta</unidadMedida>
+                 <precio>1.5</precio>
+                 <seccion>Dulces</seccion>
+             </detalles>
+         </producto>
+         <producto>
+             <nombre>Detergente</nombre>
+             <oferta>false</oferta>
+             <adquirido>true</adquirido>
+             <detalles>
+                 <unidades>1</unidades>
+                 <unidadMedida>unidad</unidadMedida>
+                 <precio>4.5</precio>
+                 <seccion>Droguería</seccion>
+             </detalles>
+         </producto>
+     </supermercado>
+     <supermercado>
+         <nombre>Aldi</nombre>
+         <direccion>Carrera Principal 987, Sevilla</direccion>
+         <geolocalizacion>
+             <latitud>37.3891</latitud>
+             <longitud>-5.9845</longitud>
+         </geolocalizacion>
+         <producto>
+             <nombre>Yogur</nombre>
+             <oferta>true</oferta>
+             <periodoVigencia>2023-06-01 hasta 2023-06-30</periodoVigencia>
+             <adquirido>false</adquirido>
+             <detalles>
+                 <unidades>4</unidades>
+                 <unidadMedida>unidad</unidadMedida>
+                 <precio>1.99</precio>
+                 <seccion>Lácteos</seccion>
+             </detalles>
+         </producto>
+         <producto>
+             <nombre>Plátanos</nombre>
+             <oferta>false</oferta>
+             <adquirido>false</adquirido>
+             <detalles>
+                 <unidades>5</unidades>
+                 <unidadMedida>kg</unidadMedida>
+                 <precio>2.49</precio>
+                 <seccion>Frutas y Verduras</seccion>
+             </detalles>
+         </producto>
+         <producto>
+             <nombre>Zumo de naranja</nombre>
+             <oferta>true</oferta>
+             <periodoVigencia>2023-06-01 hasta 2023-06-15</periodoVigencia>
+             <adquirido>false</adquirido>
+             <detalles>
+                 <unidades>6</unidades>
+                 <unidadMedida>botella</unidadMedida>
+                 <precio>3.99</precio>
+                 <seccion>Bebidas</seccion>
+             </detalles>
+         </producto>
+         <producto>
+             <nombre>Limpiacristales</nombre>
+             <oferta>false</oferta>
+             <adquirido>true</adquirido>
+             <detalles>
+                 <unidades>1</unidades>
+                 <unidadMedida>unidad</unidadMedida>
+                 <precio>1.99</precio>
+                 <seccion>Droguería</seccion>
+             </detalles>
+         </producto>
+     </supermercado>
+ </root>
